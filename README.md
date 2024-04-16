@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- 📫 **Email me at sdbruce@proton.me, or connect with me on LinkedIn https://www.linkedin.com/in/sebastian-bruce-7572312b4/**
+- 📫 **Email me at sdbruce@proton.me, or connect with me on LinkedIn https://www.linkedin.com/in/sebastian-bruce/**
 
 
 <p align="left">
