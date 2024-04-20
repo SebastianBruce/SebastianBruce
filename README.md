@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastian Bruce</h1>
-<h3 align="center">I'm a passionate coding major most interested in back-end developement.</h3>
+<h3 align="center">I'm a passionate coding major most interested in application developement.</h3>
 
 - 🔭 I’m currently working on **persusing a diploma and a multitude of personal projects.**
 
