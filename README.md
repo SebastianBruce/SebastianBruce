@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 
 - 📫 **Email me at sdbruce@proton.me, or connect with me on LinkedIn linkedin.com/in/sebastian-bruce/**
-- 🌐 **Check out my personal website: sebastianbruce.github.io/Personal-Portfolio-Website/**
+- 🌐 **Check out my <a href=https://sebastianbruce.github.io/Personal-Portfolio-Website/>personal website</a>**
 
 
 <p align="left">
